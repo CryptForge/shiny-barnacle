@@ -3,6 +3,4 @@ Hallo ik ben Daniel!
 
 
 
-<<<<<<< HEAD
 Halllllllllo wereld!
->>>>>>> 4276511891acd6dde55f6ab6ee8236cd4b821de3
